@@ -18,3 +18,4 @@ const getUsers = async (req, res) => {
     res.json(users);
 };
 exports.getUsers = getUsers;
+//# sourceMappingURL=user.controller.js.map

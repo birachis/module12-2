@@ -17,3 +17,4 @@ app.get("/health", (req, res) => {
 // Routes
 app.use("/users", user_routes_1.default);
 exports.default = app;
+//# sourceMappingURL=app.js.map
